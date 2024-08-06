@@ -56,5 +56,6 @@ $response = $kernel->handle(
 $response->send();
 
 $kernel->terminate($request, $response);
+// Cambio local en la rama main.
 // cambio de prueba para configurar git.
 // otro comentario de prueba.
