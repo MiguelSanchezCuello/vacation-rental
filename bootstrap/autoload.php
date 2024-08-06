@@ -15,3 +15,4 @@ define('LARAVEL_START', microtime(true));
 */
 
 require __DIR__.'/../vendor/autoload.php';
+//require 'C:\Users\migue\PhpstormProjects\vacation-rental\vendor';
