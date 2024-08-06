@@ -58,3 +58,4 @@ $response->send();
 $kernel->terminate($request, $response);
 // cambio de prueba para configurar git.
 // otro comentario de prueba.
+// Un cambio realizado directamente en github para probar la funcionalidad del fetch.
